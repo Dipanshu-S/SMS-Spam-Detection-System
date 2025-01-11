@@ -2,3 +2,4 @@ streamlit
 scikit-learn 
 numpy 
 scipy 
+nltk==3.8.1
